@@ -16,7 +16,7 @@
 
 @font-face {
 	font-family: "nfinic-rounded-elegance";
-	src: url("rounded-elegance.ttf");
+	src: url("https://cdn.jsdelivr.net/gh/nfinic/nfinic-js/rounded-elegance.ttf");
 }
 
 #btn-connexion-nfinic .nfinic-font{
